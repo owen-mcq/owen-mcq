@@ -1,4 +1,4 @@
 - Hi, I’m Owen McQuaid
-- My main interests right now are Cyptography and Web Programming
-- My Favorite classes I have taken/are taking in college are Japanese I, Web Programming, and Programming Methodology 
+- My main interests right now are Database Work and Computer Networking
+- My Favorite classes I have taken/are taking in college are Japanese I, Web Programming, and Applications of Data Management
 - I can be reached through my email newomcq@gmail.com
